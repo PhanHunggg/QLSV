@@ -1,0 +1,15 @@
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSSV.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSinhVien.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSGV.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGV.resources
