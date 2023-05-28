@@ -45,14 +45,16 @@
             // 
             // txtTuKhoa
             // 
-            this.txtTuKhoa.Location = new System.Drawing.Point(603, 31);
+            this.txtTuKhoa.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtTuKhoa.Location = new System.Drawing.Point(608, 24);
             this.txtTuKhoa.Name = "txtTuKhoa";
             this.txtTuKhoa.Size = new System.Drawing.Size(201, 22);
             this.txtTuKhoa.TabIndex = 1;
             // 
             // btnTimKiem
             // 
-            this.btnTimKiem.Location = new System.Drawing.Point(810, 30);
+            this.btnTimKiem.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnTimKiem.Location = new System.Drawing.Point(815, 23);
             this.btnTimKiem.Name = "btnTimKiem";
             this.btnTimKiem.Size = new System.Drawing.Size(75, 23);
             this.btnTimKiem.TabIndex = 2;
@@ -62,7 +64,9 @@
             // 
             // btnThem
             // 
-            this.btnThem.Location = new System.Drawing.Point(891, 30);
+            this.btnThem.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnThem.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnThem.Location = new System.Drawing.Point(896, 23);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 3;
@@ -72,8 +76,9 @@
             // 
             // label1
             // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(541, 37);
+            this.label1.Location = new System.Drawing.Point(546, 30);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(56, 16);
             this.label1.TabIndex = 4;
@@ -83,6 +88,9 @@
             // 
             this.dgvDSGV.AllowUserToAddRows = false;
             this.dgvDSGV.AllowUserToDeleteRows = false;
+            this.dgvDSGV.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvDSGV.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvDSGV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDSGV.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -93,15 +101,14 @@
             this.so_dien_thoai,
             this.email,
             this.dia_chi});
-            this.dgvDSGV.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dgvDSGV.Location = new System.Drawing.Point(0, 73);
+            this.dgvDSGV.Location = new System.Drawing.Point(1, 63);
             this.dgvDSGV.MultiSelect = false;
             this.dgvDSGV.Name = "dgvDSGV";
             this.dgvDSGV.ReadOnly = true;
             this.dgvDSGV.RowHeadersWidth = 51;
             this.dgvDSGV.RowTemplate.Height = 24;
             this.dgvDSGV.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvDSGV.Size = new System.Drawing.Size(993, 430);
+            this.dgvDSGV.Size = new System.Drawing.Size(993, 425);
             this.dgvDSGV.TabIndex = 5;
             this.dgvDSGV.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDSGV_CellDoubleClick);
             // 
@@ -165,7 +172,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(993, 503);
+            this.ClientSize = new System.Drawing.Size(993, 474);
             this.Controls.Add(this.dgvDSGV);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnThem);

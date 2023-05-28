@@ -54,11 +54,47 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClass.Designer.cs">
+      <DependentUpon>frmClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangKy.Designer.cs">
+      <DependentUpon>frmDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDSDThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDSDThi.Designer.cs">
+      <DependentUpon>frmDSDThi.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmDSGV.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmDSGV.Designer.cs">
       <DependentUpon>frmDSGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDSLH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDSLH.Designer.cs">
+      <DependentUpon>frmDSLH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDSMH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDSMH.Designer.cs">
+      <DependentUpon>frmDSMH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDSMHĐky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDSMHĐky.Designer.cs">
+      <DependentUpon>frmDSMHĐky.cs</DependentUpon>
     </Compile>
     <Compile Include="frmDSSV.cs">
       <SubType>Form</SubType>
@@ -72,19 +108,67 @@
     <Compile Include="frmGV.Designer.cs">
       <DependentUpon>frmGV.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmKQHocTap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKQHocTap.Designer.cs">
+      <DependentUpon>frmKQHocTap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMonHoc.Designer.cs">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLyLH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLyLH.Designer.cs">
+      <DependentUpon>frmQLyLH.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmSinhVien.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmSinhVien.Designer.cs">
       <DependentUpon>frmSinhVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWelcome.Designer.cs">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmClass.resx">
+      <DependentUpon>frmClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangKy.resx">
+      <DependentUpon>frmDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDSDThi.resx">
+      <DependentUpon>frmDSDThi.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmDSGV.resx">
       <DependentUpon>frmDSGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDSLH.resx">
+      <DependentUpon>frmDSLH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDSMH.resx">
+      <DependentUpon>frmDSMH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDSMHĐky.resx">
+      <DependentUpon>frmDSMHĐky.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmDSSV.resx">
       <DependentUpon>frmDSSV.cs</DependentUpon>
@@ -92,8 +176,23 @@
     <EmbeddedResource Include="frmGV.resx">
       <DependentUpon>frmGV.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmKQHocTap.resx">
+      <DependentUpon>frmKQHocTap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMonHoc.resx">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLyLH.resx">
+      <DependentUpon>frmQLyLH.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmSinhVien.resx">
       <DependentUpon>frmSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWelcome.resx">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -103,6 +202,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -116,6 +216,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z4378419719046_4e4bc126097796c84fd0b6a1aa62b361.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

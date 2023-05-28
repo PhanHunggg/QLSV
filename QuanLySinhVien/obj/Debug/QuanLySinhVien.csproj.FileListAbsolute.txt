@@ -13,3 +13,14 @@ D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySin
 D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmSinhVien.resources
 D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSGV.resources
 D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGV.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMH.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMonHoc.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSDThi.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmWelcome.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSLH.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmClass.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLogin.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangKy.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSMHĐky.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKQHocTap.resources
+D:\Wordspace\HomeWork\C#\Study\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLyLH.resources
