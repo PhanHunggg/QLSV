@@ -43,6 +43,7 @@
             this.dgvKQ.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvKQ.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.dgvKQ.Location = new System.Drawing.Point(0, 93);
+            this.dgvKQ.MultiSelect = false;
             this.dgvKQ.Name = "dgvKQ";
             this.dgvKQ.ReadOnly = true;
             this.dgvKQ.RowHeadersWidth = 51;
@@ -60,6 +61,7 @@
             this.btnTraCuu.TabIndex = 6;
             this.btnTraCuu.Text = "Tra cứu";
             this.btnTraCuu.UseVisualStyleBackColor = true;
+            this.btnTraCuu.Click += new System.EventHandler(this.btnTraCuu_Click);
             // 
             // txtTuKhoa
             // 

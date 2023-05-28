@@ -42,6 +42,18 @@ namespace QuanLySinhVien
         private void frmQLyLH_Load(object sender, EventArgs e)
         {
             loadDSLop();
+
+            dgvKQ.Columns["ma_lop_hoc"].HeaderText = "Mã lớp";
+            dgvKQ.Columns["ma_mon_hoc"].HeaderText = "Mã môn học";
+            dgvKQ.Columns["ten_mon_hoc"].HeaderText = "Tên môn học";
+            dgvKQ.Columns["so_tin_chi"].HeaderText = "Số tín chỉ";
+            dgvKQ.Columns["si_so"].HeaderText = "Sỉ số";
+        }
+
+        private void btnTraCuu_Click(object sender, EventArgs e)
+        {
+            loadDSLop();
+
         }
     }
 }
