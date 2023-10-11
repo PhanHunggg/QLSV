@@ -48,11 +48,11 @@ namespace QuanLySinhVien
 
             if (string.IsNullOrEmpty(maLop))
             {
-                this.Text = "Thêm môn học";
+                this.Text = "Thêm lớp học";
             }
             else
             {
-                this.Text = "Cập nhật môn học";
+                this.Text = "Cập nhật lớp học";
 
                 var r = db.Select("exec selectClass '" + maLop + "'");
 

@@ -19,19 +19,7 @@ namespace QuanLySinhVien
 
         public string taiKhoan = "";
         public string loaiTK;
-
-        private void btnThoat_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
-        private void frmLogin_Load(object sender, EventArgs e)
-        {
-
-        }
-
        
-
         private void btnLogin_Click(object sender, EventArgs e)
         {
             if(cbLogin.SelectedIndex < 0)
@@ -99,8 +87,17 @@ namespace QuanLySinhVien
             }else
             {
 
-                MessageBox.Show("Tìa khoản hoặc mật khẩu không hợp lệ");
+                MessageBox.Show("Tài khoản hoặc mật khẩu không hợp lệ");
             }
+
+        }
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
 
         }
     }
